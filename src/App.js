@@ -17,8 +17,6 @@ function App() {
    <Projects/> 
   <LatestNews/>
        <Footer/> 
-
-    <h1>Hello World</h1>
     </>
   )
 }
